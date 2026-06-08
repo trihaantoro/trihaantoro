@@ -19,6 +19,7 @@ adalah keunggulan yang langka — dan itulah yang sedang saya bangun.
 
 ### Projects
 - [Machine Failure Prediction](https://github.com/trihaantoro/predictive-maintenance-ml) — Random Forest, 98% accuracy
+- [Vehicle Regulation Compliance Tracker](https://github.com/trihaantoro/vehicle-regulation-compliance-tracker) — 61.5% compliance rate 
 - Automotive EDA — coming soon
 
 ---
