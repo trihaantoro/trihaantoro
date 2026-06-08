@@ -18,10 +18,10 @@ adalah keunggulan yang langka — dan itulah yang sedang saya bangun.
 - Proyek akhir: system dengan Arduino + thermocouple
 
 ### Projects
-- [Machine Failure Prediction][https://github.com/trihaantoro/predictive-maintenance-ml] — Random Forest, 98% accuracy
+- [Machine Failure Prediction](https://github.com/trihaantoro/predictive-maintenance-ml) — Random Forest, 98% accuracy
 - Automotive EDA — coming soon
 
 ---
-
+ 
 📧 trihantoro9@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/trihantoro)
