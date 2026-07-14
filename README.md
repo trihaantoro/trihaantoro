@@ -1,6 +1,6 @@
 ### Hi, I'm Pujo Trihantoro
 
-Automotive Mechanical Engineering graduate transitioning into Data Analytics and Industrial AI, focused on applying machine learning and BI tools to reliability, maintenance, and manufacturing problems.
+Automotive Mechanical Engineering graduate. This profile is a portfolio of the skills I've built and the projects I've worked on, spanning engineering, data analysis, and applied machine learning.
 
 **Background**
 - Junior Engineer Intern, GMF AeroAsia — aviation maintenance
