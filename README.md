@@ -1,28 +1,30 @@
-## Hi, saya Pujo Trihantoro 👋
+### Hi, I'm Pujo Trihantoro
 
-Automotive Mechanical Engineering graduate yang sedang membangun karir di Data Science dan Industrial AI.
+Automotive Mechanical Engineering graduate transitioning into Data Analytics and Industrial AI, focused on applying machine learning and BI tools to reliability, maintenance, and manufacturing problems.
 
-Saya percaya kombinasi domain knowledge engineering dan machine learning
-adalah keunggulan yang langka — dan itulah yang sedang saya bangun.
+**Background**
+- Junior Engineer Intern, GMF AeroAsia — aviation maintenance
+- Mechanic Intern, Mitsubishi authorized dealer — automotive diagnostics with MUT-III scanner
+- Capstone project: exhaust-integrated cabin sterilization system (Arduino + thermocouple monitoring)
+
+**Currently learning**
+- Python for data analysis and machine learning
+- Predictive maintenance and anomaly detection
+- Power BI for operational reporting and dashboards
 
 ---
-
-### Saat ini sedang belajar
-- Python untuk data analysis dan machine learning
-- Predictive maintenance dan anomaly detection
-- Cara mengubah pengalaman lapangan menjadi model AI yang berguna
-
-### Background engineering
-- Internship di GMF AeroAsia (aviation maintenance)
-- Automotive diagnostics menggunakan MUT-III scanner
-- Proyek akhir: system dengan Arduino + thermocouple
 
 ### Projects
-- [Machine Failure Prediction](https://github.com/trihaantoro/predictive-maintenance-ml) — Random Forest, 98% accuracy
-- [Vehicle Regulation Compliance Tracker](https://github.com/trihaantoro/vehicle-regulation-compliance-tracker) — 61.5% compliance rate 
-- Automotive EDA — coming soon
+
+**[Machine Failure Prediction](https://github.com/trihaantoro/predictive-maintenance-ml)**
+Random Forest classifier on industrial sensor data, 98% accuracy.
+
+**[Vehicle Regulation Compliance Tracker](https://github.com/trihaantoro/vehicle-regulation-compliance-tracker)**
+Python-based compliance modeling across 6 Toyota models and 7 regulatory categories, 61.5% compliance rate.
+
+**[Asset Integrity Dashboard](https://github.com/trihaantoro/asset-integrity-dashboard)**
+Power BI dashboard tracking maintenance downtime, MTTR, and PM/CM ratio across 15 pieces of equipment.
 
 ---
- 
-📧 trihantoro9@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/trihantoro)
+
+📧 trihantoro9@gmail.com · [LinkedIn](https://linkedin.com/in/trihantoro)
